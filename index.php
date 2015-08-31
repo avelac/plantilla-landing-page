@@ -13,7 +13,7 @@
 		<div id="wrapper">
 			<header class="wrapper-header row">
 				<div class="logo col s10 m11 l10 offset-l1 offset-m1">
-					<div class="divlogo"><img src="/img/logo.png" alt="Vinagrera Montillana"></div>
+					<div class="divlogo"><img src="img/no_disponible.svg" alt="Vinagrera Montillana"></div>
 					<h1>Plantilla landing page</h1>
 				</div>
 				<nav class="wrapper-nav">
